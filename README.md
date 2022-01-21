@@ -1,1 +1,0 @@
-# Movie-ticket-booking-app---MERN
